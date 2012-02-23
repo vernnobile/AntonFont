@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="1015"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="852" y="-591" type="line"/>
+      <point x="756" y="-631"/>
+      <point x="654" y="-631" type="qcurve"/>
+      <point x="507" y="-631"/>
+      <point x="306" y="-469"/>
+      <point x="306" y="-330" type="qcurve"/>
+      <point x="306" y="-149"/>
+      <point x="570" y="0" type="qcurve"/>
+      <point x="781" y="0" type="line"/>
+      <point x="697" y="-102"/>
+      <point x="621" y="-230"/>
+      <point x="621" y="-279" type="qcurve"/>
+      <point x="621" y="-337"/>
+      <point x="683" y="-391"/>
+      <point x="736" y="-391" type="qcurve"/>
+      <point x="786" y="-391"/>
+      <point x="852" y="-368" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>
