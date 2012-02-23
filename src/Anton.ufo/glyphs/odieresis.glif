@@ -3,44 +3,7 @@
   <advance width="1018"/>
   <unicode hex="00F6"/>
   <outline>
-    <contour>
-      <point x="509" y="-18" type="qcurve"/>
-      <point x="61" y="-18"/>
-      <point x="61" y="449" type="qcurve"/>
-      <point x="61" y="1051" type="line"/>
-      <point x="61" y="1266"/>
-      <point x="301" y="1518"/>
-      <point x="509" y="1518" type="qcurve"/>
-      <point x="718" y="1518"/>
-      <point x="958" y="1266"/>
-      <point x="958" y="1051" type="qcurve"/>
-      <point x="958" y="449" type="line"/>
-      <point x="958" y="214"/>
-      <point x="729" y="-18"/>
-    </contour>
-    <contour>
-      <point x="425" y="1108" type="qcurve"/>
-      <point x="425" y="375" type="line"/>
-      <point x="425" y="315"/>
-      <point x="472" y="260"/>
-      <point x="546" y="260"/>
-      <point x="593" y="315"/>
-      <point x="593" y="375" type="qcurve"/>
-      <point x="593" y="1108" type="line"/>
-      <point x="593" y="1239"/>
-      <point x="425" y="1239"/>
-    </contour>
-    <contour>
-      <point x="86" y="1591" type="line"/>
-      <point x="86" y="1889" type="line"/>
-      <point x="444" y="1889" type="line"/>
-      <point x="444" y="1591" type="line"/>
-    </contour>
-    <contour>
-      <point x="570" y="1591" type="line"/>
-      <point x="570" y="1889" type="line"/>
-      <point x="928" y="1889" type="line"/>
-      <point x="928" y="1591" type="line"/>
-    </contour>
+    <component base="dieresis" xOffset="21.5" yOffset="29"/>
+    <component base="o"/>
   </outline>
 </glyph>

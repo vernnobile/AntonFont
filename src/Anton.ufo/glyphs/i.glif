@@ -10,10 +10,15 @@
       <point x="442" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="84" y="1567" type="line"/>
-      <point x="84" y="1769" type="line"/>
-      <point x="442" y="1769" type="line"/>
-      <point x="442" y="1567" type="line"/>
+      <point x="84" y="1600" type="line"/>
+      <point x="84" y="1800" type="line"/>
+      <point x="442" y="1800" type="line"/>
+      <point x="442" y="1600" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
 </glyph>

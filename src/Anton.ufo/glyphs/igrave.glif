@@ -3,17 +3,7 @@
   <advance width="526"/>
   <unicode hex="00EC"/>
   <outline>
-    <contour>
-      <point x="84" y="0" type="line"/>
-      <point x="84" y="1500" type="line"/>
-      <point x="442" y="1500" type="line"/>
-      <point x="442" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="484" y="1553" type="line"/>
-      <point x="9" y="1647" type="line"/>
-      <point x="9" y="1994" type="line"/>
-      <point x="484" y="1776" type="line"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="grave" xOffset="-25.5" yOffset="67"/>
   </outline>
 </glyph>

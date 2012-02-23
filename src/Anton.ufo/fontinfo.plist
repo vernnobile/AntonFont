@@ -1,51 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>ascender</key>
-	<integer>1769</integer>
-	<key>capHeight</key>
-	<integer>1593</integer>
-	<key>copyright</key>
-	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
-	<key>descender</key>
-	<integer>-186</integer>
+    <dict>
 	<key>familyName</key>
 	<string>Anton</string>
-	<key>italicAngle</key>
-	<real>0.0</real>
-	<key>macintoshFONDFamilyID</key>
-	<integer>128</integer>
-	<key>macintoshFONDName</key>
-	<string>Anton</string>
-	<key>openTypeHeadLowestRecPPEM</key>
-	<integer>8</integer>
-	<key>openTypeHheaAscender</key>
-	<integer>2331</integer>
-	<key>openTypeHheaDescender</key>
-	<integer>-631</integer>
-	<key>openTypeHheaLineGap</key>
-	<integer>65</integer>
-	<key>openTypeNameCompatibleFullName</key>
-	<string>Anton</string>
-	<key>openTypeNameDescription</key>
+	<key>styleName</key>
+	<string>Normal</string>
+	<key>copyright</key>
 	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
+	<key>trademark</key>
+	<string>Anton is a trademark of vernon adams.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>xHeight</key>
+	<integer>1500</integer>
+	<key>capHeight</key>
+	<integer>1761</integer>
+	<key>ascender</key>
+	<integer>1769</integer>
+	<key>descender</key>
+	<integer>-186</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/01/23 21:33:25</string>
 	<key>openTypeNameManufacturer</key>
 	<string>vernon adams</string>
-	<key>openTypeNameUniqueID</key>
-	<string>vernonadams: Anton: 2011</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 1.000</string>
-	<key>openTypeOS2CodePageRanges</key>
-	<array>
-		<integer>0</integer>
-		<integer>29</integer>
-	</array>
-	<key>openTypeOS2FamilyClass</key>
-	<array>
-		<integer>0</integer>
-		<integer>0</integer>
-	</array>
+	<key>openTypeNameUniqueID</key>
+	<string>vernonadams: Anton: 2011</string>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
+	<key>openTypeNameCompatibleFullName</key>
+	<string>Anton</string>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>2</integer>
@@ -59,29 +49,35 @@
 		<integer>0</integer>
 		<integer>0</integer>
 	</array>
-	<key>openTypeOS2StrikeoutPosition</key>
-	<integer>512</integer>
-	<key>openTypeOS2StrikeoutSize</key>
-	<integer>102</integer>
-	<key>openTypeOS2SubscriptXOffset</key>
-	<integer>0</integer>
-	<key>openTypeOS2SubscriptXSize</key>
-	<integer>1434</integer>
-	<key>openTypeOS2SubscriptYOffset</key>
-	<integer>287</integer>
-	<key>openTypeOS2SubscriptYSize</key>
-	<integer>1331</integer>
-	<key>openTypeOS2SuperscriptXOffset</key>
-	<integer>0</integer>
-	<key>openTypeOS2SuperscriptXSize</key>
-	<integer>1434</integer>
-	<key>openTypeOS2SuperscriptYOffset</key>
-	<integer>977</integer>
-	<key>openTypeOS2SuperscriptYSize</key>
-	<integer>1331</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>1</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>newt</string>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
 	<key>openTypeOS2Type</key>
 	<array>
-		<integer>2</integer>
+		<integer>1</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>1769</integer>
@@ -89,6 +85,30 @@
 	<integer>-186</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>127</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>2331</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>-631</integer>
+	<key>openTypeOS2SubscriptXSize</key>
+	<integer>1434</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>1331</integer>
+	<key>openTypeOS2SubscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>287</integer>
+	<key>openTypeOS2SuperscriptXSize</key>
+	<integer>1434</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>1331</integer>
+	<key>openTypeOS2SuperscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>977</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>102</integer>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>512</integer>
 	<key>openTypeOS2UnicodeRanges</key>
 	<array>
 		<integer>0</integer>
@@ -107,79 +127,28 @@
 		<integer>60</integer>
 		<integer>62</integer>
 	</array>
-	<key>openTypeOS2VendorID</key>
-	<string>newt</string>
-	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
-	<key>openTypeOS2WidthClass</key>
-	<integer>1</integer>
-	<key>openTypeOS2WinAscent</key>
-	<integer>2331</integer>
-	<key>openTypeOS2WinDescent</key>
-	<integer>-631</integer>
-	<key>postscriptBlueFuzz</key>
-	<integer>1</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
-	<key>postscriptBlueShift</key>
-	<integer>7</integer>
-	<key>postscriptBlueValues</key>
+	<key>openTypeOS2CodePageRanges</key>
 	<array>
-	</array>
-	<key>postscriptDefaultWidthX</key>
-	<integer>500</integer>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
+		<integer>0</integer>
+		<integer>29</integer>
 	</array>
 	<key>postscriptFontName</key>
 	<string>Anton</string>
-	<key>postscriptForceBold</key>
-	<false/>
 	<key>postscriptFullName</key>
 	<string>Anton</string>
-	<key>postscriptIsFixedPitch</key>
-	<false/>
-	<key>postscriptOtherBlues</key>
-	<array>
-	</array>
-	<key>postscriptSlantAngle</key>
-	<real>-0.0</real>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-307</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>102</integer>
-	<key>postscriptUniqueID</key>
-	<integer>-1</integer>
 	<key>postscriptWeightName</key>
 	<string>Normal</string>
-	<key>postscriptWindowsCharacterSet</key>
+	<key>postscriptUnderlineThickness</key>
+	<integer>102</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-307</integer>
+	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
-	<key>styleMapFamilyName</key>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.039625</real>
+	<key>macintoshFONDName</key>
 	<string>Anton</string>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
-	<key>styleName</key>
-	<string>Regular</string>
-	<key>trademark</key>
-	<string>Anton is a trademark of vernon adams.</string>
-	<key>unitsPerEm</key>
-	<integer>2048</integer>
-	<key>versionMajor</key>
-	<integer>1</integer>
-	<key>versionMinor</key>
-	<integer>0</integer>
-	<key>xHeight</key>
-	<integer>1501</integer>
-	<key>year</key>
-	<integer>2011</integer>
-</dict>
+    </dict>
 </plist>
