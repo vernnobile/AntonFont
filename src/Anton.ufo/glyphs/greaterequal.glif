@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greaterequal" format="1">
-  <advance width="707"/>
+  <advance width="661"/>
   <unicode hex="2265"/>
   <outline>
     <contour>
-      <point x="650" y="637" type="line"/>
-      <point x="80" y="292" type="line"/>
-      <point x="80" y="650" type="line"/>
-      <point x="422" y="841" type="line"/>
-      <point x="80" y="1033" type="line"/>
-      <point x="80" y="1392" type="line"/>
-      <point x="650" y="1051" type="line"/>
+      <point x="52" y="1392" type="line"/>
+      <point x="622" y="1051" type="line"/>
+      <point x="622" y="637" type="line"/>
+      <point x="52" y="292" type="line"/>
+      <point x="52" y="650" type="line"/>
+      <point x="394" y="841" type="line"/>
+      <point x="52" y="1033" type="line"/>
     </contour>
     <contour>
-      <point x="107" y="0" type="line"/>
-      <point x="107" y="232" type="line"/>
-      <point x="623" y="232" type="line"/>
-      <point x="623" y="0" type="line"/>
+      <point x="595" y="232" type="line"/>
+      <point x="595" y="0" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="79" y="232" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

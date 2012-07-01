@@ -1,32 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="trademark" format="1">
-  <advance width="1910"/>
+  <advance width="1825"/>
   <unicode hex="2122"/>
   <outline>
     <contour>
-      <point x="67" y="1593" type="line"/>
-      <point x="651" y="1593" type="line"/>
-      <point x="651" y="1361" type="line"/>
-      <point x="492" y="1361" type="line"/>
-      <point x="492" y="386" type="line"/>
-      <point x="225" y="386" type="line"/>
-      <point x="225" y="1361" type="line"/>
-      <point x="67" y="1361" type="line"/>
+      <point x="188" y="1361" type="line"/>
+      <point x="30" y="1361" type="line"/>
+      <point x="30" y="1593" type="line"/>
+      <point x="614" y="1593" type="line"/>
+      <point x="614" y="1361" type="line"/>
+      <point x="455" y="1361" type="line"/>
+      <point x="455" y="386" type="line"/>
+      <point x="188" y="386" type="line"/>
     </contour>
     <contour>
-      <point x="1403" y="386" type="line"/>
-      <point x="1163" y="386" type="line"/>
-      <point x="1016" y="1257" type="line"/>
-      <point x="1016" y="386" type="line"/>
-      <point x="760" y="386" type="line"/>
-      <point x="760" y="1593" type="line"/>
-      <point x="1166" y="1593" type="line"/>
-      <point x="1279" y="963" type="line"/>
-      <point x="1391" y="1593" type="line"/>
-      <point x="1800" y="1593" type="line"/>
-      <point x="1800" y="386" type="line"/>
-      <point x="1541" y="386" type="line"/>
-      <point x="1541" y="1257" type="line"/>
+      <point x="1504" y="386" type="line"/>
+      <point x="1504" y="1257" type="line"/>
+      <point x="1366" y="386" type="line"/>
+      <point x="1126" y="386" type="line"/>
+      <point x="979" y="1257" type="line"/>
+      <point x="979" y="386" type="line"/>
+      <point x="723" y="386" type="line"/>
+      <point x="723" y="1593" type="line"/>
+      <point x="1129" y="1593" type="line"/>
+      <point x="1242" y="963" type="line"/>
+      <point x="1354" y="1593" type="line"/>
+      <point x="1763" y="1593" type="line"/>
+      <point x="1763" y="386" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

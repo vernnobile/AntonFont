@@ -6,4 +6,11 @@
     <component base="comma" xOffset="243.5" yOffset="-419"/>
     <component base="s"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

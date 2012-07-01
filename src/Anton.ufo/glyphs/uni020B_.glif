@@ -6,4 +6,11 @@
     <component base="breve" yScale="-1" xOffset="-239.5" yOffset="3565"/>
     <component base="dotlessi"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
