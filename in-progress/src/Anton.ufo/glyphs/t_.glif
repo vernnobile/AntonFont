@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="811"/>
+  <advance width="834"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="225" y="1439" type="line"/>
-      <point x="20" y="1439" type="line"/>
-      <point x="20" y="1761" type="line"/>
-      <point x="790" y="1761" type="line"/>
-      <point x="790" y="1439" type="line"/>
-      <point x="585" y="1439" type="line"/>
-      <point x="585" y="0" type="line"/>
-      <point x="225" y="0" type="line"/>
+      <point x="237" y="1439" type="line"/>
+      <point x="32" y="1439" type="line"/>
+      <point x="32" y="1761" type="line"/>
+      <point x="802" y="1761" type="line"/>
+      <point x="802" y="1439" type="line"/>
+      <point x="597" y="1439" type="line"/>
+      <point x="597" y="0" type="line"/>
+      <point x="237" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>T</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>834</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
