@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="1">
-  <advance width="750"/>
+  <advance width="1096"/>
   <unicode hex="00D8"/>
   <outline>
     <contour>
-      <point x="20" y="-122" type="line"/>
-      <point x="147" y="326" type="line"/>
-      <point x="246" y="240" type="line"/>
-      <point x="132" y="-162" type="line"/>
+      <point x="180" y="-142" type="line"/>
+      <point x="327" y="306" type="line"/>
+      <point x="426" y="220" type="line"/>
+      <point x="292" y="-182" type="line"/>
     </contour>
     <contour>
-      <point x="741" y="1981" type="line"/>
-      <point x="607" y="1510" type="line"/>
-      <point x="496" y="1560" type="line"/>
-      <point x="624" y="2014" type="line"/>
+      <point x="901" y="1961" type="line"/>
+      <point x="747" y="1490" type="line"/>
+      <point x="636" y="1540" type="line"/>
+      <point x="784" y="1994" type="line"/>
     </contour>
     <component base="O"/>
   </outline>
@@ -41,7 +41,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>750</integer>
+          <integer>1096</integer>
         </dict>
       </dict>
     </dict>

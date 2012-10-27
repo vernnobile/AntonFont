@@ -20,16 +20,18 @@
 	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2012/01/23 21:33:25</string>
-	<key>openTypeNameCompatibleFullName</key>
-	<string>Anton</string>
 	<key>openTypeNameDescription</key>
 	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
+	<key>openTypeNameDesigner</key>
+	<string>http://code.newtypography.co.uk</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://code.newtypography.co.uk</string>
 	<key>openTypeNameManufacturer</key>
-	<string>vernon adams</string>
+	<string>Vernon Adams</string>
 	<key>openTypeNameUniqueID</key>
 	<string>vernonadams: Anton: 2011</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.000</string>
+	<string>Version 1.002</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -166,6 +168,10 @@
 	<string>Anton is a trademark of vernon adams.</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>2</integer>
 	<key>xHeight</key>
 	<integer>1500</integer>
 </dict>

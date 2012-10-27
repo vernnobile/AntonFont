@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="1">
-  <advance width="1311"/>
+  <advance width="1370"/>
   <unicode hex="00C6"/>
   <outline>
     <contour>
-      <point x="1272" y="311" type="line"/>
-      <point x="1272" y="0" type="line"/>
-      <point x="605" y="0" type="line"/>
-      <point x="604" y="120" type="line"/>
-      <point x="604" y="240" type="line"/>
-      <point x="396" y="240" type="line"/>
-      <point x="357" y="0" type="line"/>
-      <point x="16" y="0" type="line"/>
-      <point x="337" y="1593" type="line"/>
-      <point x="1249" y="1593" type="line"/>
-      <point x="1249" y="1284" type="line"/>
-      <point x="963" y="1284" type="line"/>
-      <point x="963" y="973" type="line"/>
-      <point x="1235" y="973" type="line"/>
-      <point x="1235" y="674" type="line"/>
-      <point x="963" y="674" type="line"/>
-      <point x="963" y="311" type="line"/>
+      <point x="657" y="535" type="line"/>
+      <point x="488" y="535" type="line"/>
+      <point x="610" y="1440" type="line"/>
+      <point x="657" y="1440" type="line"/>
     </contour>
     <contour>
-      <point x="442" y="530" type="line"/>
-      <point x="600" y="530" type="line"/>
-      <point x="600" y="1294" type="line"/>
-      <point x="572" y="1294" type="line"/>
+      <point x="458" y="281" type="line"/>
+      <point x="657" y="281" type="line"/>
+      <point x="657" y="0" type="line"/>
+      <point x="1282" y="0" type="line"/>
+      <point x="1282" y="318" type="line"/>
+      <point x="1017" y="318" type="line"/>
+      <point x="1017" y="746" type="line"/>
+      <point x="1245" y="746" type="line"/>
+      <point x="1245" y="1065" type="line"/>
+      <point x="1017" y="1065" type="line"/>
+      <point x="1017" y="1440" type="line"/>
+      <point x="1259" y="1440" type="line"/>
+      <point x="1259" y="1761" type="line"/>
+      <point x="324" y="1761" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1311</integer>
+          <integer>1370</integer>
         </dict>
       </dict>
     </dict>

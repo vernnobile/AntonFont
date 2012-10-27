@@ -16,7 +16,7 @@
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
@@ -42,9 +42,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>552</integer>
+			<integer>476</integer>
 			<key>y</key>
-			<integer>1466</integer>
+			<integer>1440</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -56,9 +56,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>552</integer>
+			<integer>512</integer>
 			<key>y</key>
-			<integer>294</integer>
+			<integer>318</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -89,12 +89,16 @@
 			<integer>-21</integer>
 		</dict>
 	</array>
+	<key>com.typemytype.robofont.italicSlantOffset</key>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 		<string>b</string>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
+	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>

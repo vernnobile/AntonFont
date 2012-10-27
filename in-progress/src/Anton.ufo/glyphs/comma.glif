@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="comma" format="1">
-  <advance width="484"/>
+  <advance width="528"/>
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="116" y="-235" type="line"/>
-      <point x="182" y="1" type="line"/>
-      <point x="55" y="1" type="line"/>
-      <point x="55" y="299" type="line"/>
-      <point x="429" y="299" type="line"/>
-      <point x="429" y="10" type="line"/>
-      <point x="327" y="-235" type="line"/>
+      <point x="176" y="-328" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="318" type="line"/>
+      <point x="446" y="318" type="line"/>
+      <point x="446" y="9" type="line"/>
+      <point x="344" y="-328" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>484</integer>
+          <integer>528</integer>
         </dict>
       </dict>
     </dict>

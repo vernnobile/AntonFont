@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="1">
-  <advance width="1095"/>
+  <advance width="1097"/>
   <unicode hex="0052"/>
   <outline>
     <contour>
@@ -62,7 +62,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1095</integer>
+          <integer>1097</integer>
         </dict>
       </dict>
     </dict>

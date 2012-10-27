@@ -38,6 +38,8 @@
 	<string>e_dieresis.glif</string>
 	<key>Egrave</key>
 	<string>e_grave.glif</string>
+	<key>Eth</key>
+	<string>Eth_.glif</string>
 	<key>Euro</key>
 	<string>e_uro.glif</string>
 	<key>F</key>

@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="approxequal" format="1">
-  <advance width="1009"/>
+  <advance width="1117"/>
   <unicode hex="2248"/>
   <outline>
-    <contour>
-      <point x="639" y="776" type="curve" smooth="yes"/>
-      <point x="514" y="776"/>
-      <point x="470" y="886"/>
-      <point x="357" y="886" type="curve" smooth="yes"/>
-      <point x="328" y="886"/>
-      <point x="302" y="860"/>
-      <point x="279" y="807" type="curve"/>
-      <point x="37" y="923" type="line"/>
-      <point x="118" y="1122"/>
-      <point x="228" y="1222"/>
-      <point x="367" y="1222" type="curve" smooth="yes"/>
-      <point x="475" y="1222"/>
-      <point x="548" y="1114"/>
-      <point x="650" y="1114" type="curve" smooth="yes"/>
-      <point x="679" y="1114"/>
-      <point x="706" y="1140"/>
-      <point x="729" y="1193" type="curve"/>
-      <point x="971" y="1077" type="line"/>
-      <point x="889" y="876"/>
-      <point x="778" y="776"/>
-    </contour>
+    <component base="asciitilde" yOffset="-563"/>
+    <component base="asciitilde"/>
   </outline>
   <lib>
     <dict>
@@ -50,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1009</integer>
+          <integer>1117</integer>
         </dict>
       </dict>
     </dict>
