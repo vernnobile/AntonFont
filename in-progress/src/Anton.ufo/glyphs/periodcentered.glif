@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="480"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="81" y="1021" type="line"/>
+      <point x="81" y="723" type="line"/>
+      <point x="399" y="723" type="line"/>
+      <point x="399" y="1021" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="878" type="move" name="_mid"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>
