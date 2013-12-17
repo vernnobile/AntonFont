@@ -4,12 +4,22 @@
   <unicode hex="00BC"/>
   <outline>
     <contour>
-      <point x="843" y="1767" type="line"/>
-      <point x="273" y="0" type="line"/>
-      <point x="556" y="0" type="line"/>
-      <point x="1127" y="1767" type="line"/>
+      <point x="1133" y="-1" type="line"/>
+      <point x="1340" y="-1" type="line"/>
+      <point x="1340" y="151" type="line"/>
+      <point x="1379" y="151" type="line"/>
+      <point x="1379" y="322" type="line"/>
+      <point x="1340" y="322" type="line"/>
+      <point x="1340" y="941" type="line"/>
+      <point x="1017" y="941" type="line"/>
+      <point x="830" y="300" type="line"/>
+      <point x="830" y="151" type="line"/>
+      <point x="1133" y="151" type="line"/>
     </contour>
     <contour>
+      <point x="145" y="696" type="line"/>
+      <point x="355" y="696" type="line"/>
+      <point x="355" y="1647" type="line"/>
       <point x="196" y="1647" type="line"/>
       <point x="196" y="1585"/>
       <point x="80" y="1527"/>
@@ -23,31 +33,25 @@
       <point x="65" y="1374"/>
       <point x="106" y="1384"/>
       <point x="145" y="1404" type="curve"/>
-      <point x="145" y="696" type="line"/>
-      <point x="355" y="696" type="line"/>
-      <point x="355" y="1647" type="line"/>
     </contour>
     <contour>
-      <point x="1017" y="941" type="line"/>
-      <point x="830" y="300" type="line"/>
-      <point x="830" y="151" type="line"/>
-      <point x="1133" y="151" type="line"/>
-      <point x="1133" y="-1" type="line"/>
-      <point x="1340" y="-1" type="line"/>
-      <point x="1340" y="151" type="line"/>
-      <point x="1379" y="151" type="line"/>
-      <point x="1379" y="322" type="line"/>
-      <point x="1340" y="322" type="line"/>
-      <point x="1340" y="941" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="556" y="0" type="line"/>
+      <point x="1127" y="1767" type="line"/>
+      <point x="843" y="1767" type="line"/>
     </contour>
     <contour>
-      <point x="1133" y="322" type="line"/>
       <point x="993" y="322" type="line"/>
       <point x="1133" y="777" type="line"/>
+      <point x="1133" y="322" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
     </dict>

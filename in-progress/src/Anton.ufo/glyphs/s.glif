@@ -4,27 +4,6 @@
   <unicode hex="0073"/>
   <outline>
     <contour>
-      <point x="252" y="1516"/>
-      <point x="45" y="1394"/>
-      <point x="45" y="1157" type="curve" smooth="yes"/>
-      <point x="45" y="951"/>
-      <point x="109" y="865"/>
-      <point x="229" y="772" type="curve" smooth="yes"/>
-      <point x="420" y="625" type="line" smooth="yes"/>
-      <point x="498" y="566"/>
-      <point x="561" y="515"/>
-      <point x="561" y="385" type="curve" smooth="yes"/>
-      <point x="561" y="307"/>
-      <point x="537" y="268"/>
-      <point x="489" y="268" type="curve" smooth="yes"/>
-      <point x="424" y="268"/>
-      <point x="401" y="309"/>
-      <point x="401" y="377" type="curve" smooth="yes"/>
-      <point x="399" y="553" type="line"/>
-      <point x="41" y="553" type="line"/>
-      <point x="39" y="434" type="line" smooth="yes"/>
-      <point x="39" y="133"/>
-      <point x="187" y="-16"/>
       <point x="483" y="-16" type="curve" smooth="yes"/>
       <point x="763" y="-16"/>
       <point x="934" y="135"/>
@@ -48,6 +27,27 @@
       <point x="925" y="1372"/>
       <point x="776" y="1516"/>
       <point x="489" y="1516" type="curve" smooth="yes"/>
+      <point x="252" y="1516"/>
+      <point x="45" y="1394"/>
+      <point x="45" y="1157" type="curve" smooth="yes"/>
+      <point x="45" y="951"/>
+      <point x="109" y="865"/>
+      <point x="229" y="772" type="curve" smooth="yes"/>
+      <point x="420" y="625" type="line" smooth="yes"/>
+      <point x="498" y="566"/>
+      <point x="561" y="515"/>
+      <point x="561" y="385" type="curve" smooth="yes"/>
+      <point x="561" y="307"/>
+      <point x="537" y="268"/>
+      <point x="489" y="268" type="curve" smooth="yes"/>
+      <point x="424" y="268"/>
+      <point x="401" y="309"/>
+      <point x="401" y="377" type="curve" smooth="yes"/>
+      <point x="399" y="553" type="line"/>
+      <point x="41" y="553" type="line"/>
+      <point x="39" y="434" type="line" smooth="yes"/>
+      <point x="39" y="133"/>
+      <point x="187" y="-16"/>
     </contour>
     <contour>
       <point x="489" y="1500" type="move" name="top"/>
@@ -58,6 +58,10 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
     </dict>

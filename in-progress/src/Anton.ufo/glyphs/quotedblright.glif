@@ -4,26 +4,30 @@
   <unicode hex="201D"/>
   <outline>
     <contour>
-      <point x="523" y="1760" type="line"/>
-      <point x="523" y="1462" type="line"/>
-      <point x="650" y="1462" type="line"/>
-      <point x="584" y="1226" type="line"/>
-      <point x="795" y="1226" type="line"/>
-      <point x="897" y="1471" type="line"/>
-      <point x="897" y="1760" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="1760" type="line"/>
-      <point x="50" y="1462" type="line"/>
-      <point x="177" y="1462" type="line"/>
       <point x="111" y="1226" type="line"/>
       <point x="322" y="1226" type="line"/>
       <point x="424" y="1471" type="line"/>
       <point x="424" y="1760" type="line"/>
+      <point x="50" y="1760" type="line"/>
+      <point x="50" y="1462" type="line"/>
+      <point x="177" y="1462" type="line"/>
+    </contour>
+    <contour>
+      <point x="584" y="1226" type="line"/>
+      <point x="795" y="1226" type="line"/>
+      <point x="897" y="1471" type="line"/>
+      <point x="897" y="1760" type="line"/>
+      <point x="523" y="1760" type="line"/>
+      <point x="523" y="1462" type="line"/>
+      <point x="650" y="1462" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
     </dict>

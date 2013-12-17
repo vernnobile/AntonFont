@@ -4,24 +4,28 @@
   <unicode hex="25CA"/>
   <outline>
     <contour>
-      <point x="217" y="1436" type="line"/>
-      <point x="34" y="713" type="line"/>
-      <point x="217" y="0" type="line"/>
-      <point x="708" y="0" type="line"/>
-      <point x="887" y="713" type="line"/>
-      <point x="708" y="1436" type="line"/>
-    </contour>
-    <contour>
-      <point x="609" y="713" type="line"/>
-      <point x="475" y="179" type="line"/>
       <point x="443" y="179" type="line"/>
       <point x="309" y="713" type="line"/>
       <point x="443" y="1247" type="line"/>
       <point x="475" y="1247" type="line"/>
+      <point x="609" y="713" type="line"/>
+      <point x="475" y="179" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="0" type="line"/>
+      <point x="708" y="0" type="line"/>
+      <point x="887" y="713" type="line"/>
+      <point x="708" y="1436" type="line"/>
+      <point x="217" y="1436" type="line"/>
+      <point x="34" y="713" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
     </dict>

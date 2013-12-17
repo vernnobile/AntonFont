@@ -4,7 +4,6 @@
   <unicode hex="0068"/>
   <outline>
     <contour>
-      <point x="72" y="1770" type="line"/>
       <point x="72" y="0" type="line"/>
       <point x="440" y="0" type="line"/>
       <point x="440" y="1135" type="line" smooth="yes"/>
@@ -24,6 +23,7 @@
       <point x="479" y="1463"/>
       <point x="440" y="1351" type="curve"/>
       <point x="440" y="1770" type="line"/>
+      <point x="72" y="1770" type="line"/>
     </contour>
     <contour>
       <point x="624" y="1760" type="move" name="top"/>
@@ -34,6 +34,10 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
     </dict>

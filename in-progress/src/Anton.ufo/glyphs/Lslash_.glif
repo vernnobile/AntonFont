@@ -4,15 +4,19 @@
   <unicode hex="0141"/>
   <outline>
     <contour>
-      <point x="-11" y="1011" type="line"/>
       <point x="-11" y="669" type="line"/>
       <point x="636" y="951" type="line"/>
       <point x="636" y="1293" type="line"/>
+      <point x="-11" y="1011" type="line"/>
     </contour>
     <component base="L"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
     </dict>

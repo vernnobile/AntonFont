@@ -4,6 +4,13 @@
   <unicode hex="0064"/>
   <outline>
     <contour>
+      <point x="367" y="-16" type="curve" smooth="yes"/>
+      <point x="492" y="-16"/>
+      <point x="550" y="51"/>
+      <point x="590" y="159" type="curve"/>
+      <point x="590" y="0" type="line"/>
+      <point x="948" y="0" type="line"/>
+      <point x="948" y="1770" type="line"/>
       <point x="590" y="1770" type="line"/>
       <point x="590" y="1419" type="line"/>
       <point x="541" y="1485"/>
@@ -15,21 +22,8 @@
       <point x="60" y="477" type="line" smooth="yes"/>
       <point x="60" y="201"/>
       <point x="90" y="-16"/>
-      <point x="367" y="-16" type="curve" smooth="yes"/>
-      <point x="492" y="-16"/>
-      <point x="550" y="51"/>
-      <point x="590" y="159" type="curve"/>
-      <point x="590" y="0" type="line"/>
-      <point x="948" y="0" type="line"/>
-      <point x="948" y="1770" type="line"/>
     </contour>
     <contour>
-      <point x="576" y="1239"/>
-      <point x="590" y="1153"/>
-      <point x="590" y="1083" type="curve" smooth="yes"/>
-      <point x="590" y="520" type="line" smooth="yes"/>
-      <point x="590" y="422"/>
-      <point x="602" y="264"/>
       <point x="504" y="264" type="curve" smooth="yes"/>
       <point x="447" y="264"/>
       <point x="418" y="327"/>
@@ -38,6 +32,12 @@
       <point x="418" y="1160"/>
       <point x="429" y="1239"/>
       <point x="506" y="1239" type="curve" smooth="yes"/>
+      <point x="576" y="1239"/>
+      <point x="590" y="1153"/>
+      <point x="590" y="1083" type="curve" smooth="yes"/>
+      <point x="590" y="520" type="line" smooth="yes"/>
+      <point x="590" y="422"/>
+      <point x="602" y="264"/>
     </contour>
     <contour>
       <point x="767" y="1629" type="move" name="mid"/>
@@ -45,6 +45,10 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
     </dict>

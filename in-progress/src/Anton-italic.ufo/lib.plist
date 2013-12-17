@@ -11,11 +11,29 @@
 	<false/>
 	<key>com.schriftgestaltung.width</key>
 	<string>Condensed</string>
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.autohint</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.decompose</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Users/vern/gitHub/AntonFont/in-progress/src/Anton-italic.otf</string>
+	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.italicSlantOffset</key>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
+	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+	<false/>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>
@@ -1193,10 +1211,6 @@
 		<string>twosuperior</string>
 		<string>threesuperior</string>
 		<string>softhyphen</string>
-		<string>guillemetleft</string>
-		<string>guillemetright</string>
-		<string>euro</string>
-		<string>divisionslash</string>
 		<string>emptyset</string>
 		<string>uni2219</string>
 		<string>commaaccent</string>
@@ -1205,6 +1219,16 @@
 		<string>apostrophemod</string>
 		<string>uni02C9</string>
 		<string>foundryicon</string>
+		<string>uni021A</string>
+		<string>uni021B</string>
+		<string>uni00AD</string>
+		<string>guillemotleft</string>
+		<string>guillemotright</string>
+		<string>Euro</string>
+		<string>uni2126</string>
+		<string>uni2215</string>
+		<string>estimated</string>
+		<string>uni2113</string>
 	</array>
 </dict>
 </plist>

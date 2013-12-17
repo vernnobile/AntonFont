@@ -7,23 +7,19 @@
 	<key>capHeight</key>
 	<integer>1760</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
+	<string>Copyright (c) 2011-13 by vernon adams. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-186</integer>
 	<key>familyName</key>
-	<string>Anton Normal</string>
-	<key>fsType</key>
-	<array>
-		<integer>3</integer>
-	</array>
+	<string>Anton</string>
+	<key>italicAngle</key>
+	<real>-9</real>
 	<key>macintoshFONDName</key>
 	<string>Anton</string>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2013/12/16 06:15:07</string>
-	<key>openTypeNameCompatibleFullName</key>
-	<string>Anton</string>
+	<string>2013/12/17 00:46:24</string>
 	<key>openTypeNameDescription</key>
 	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
 	<key>openTypeNameDesigner</key>
@@ -37,11 +33,7 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Anton</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Normal</string>
-	<key>openTypeNameUniqueID</key>
-	<string>vernonadams: Anton: 2011</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 1.000</string>
+	<string>Regular</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -121,24 +113,26 @@
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
+		<integer>-31</integer>
 		<integer>-16</integer>
+		<integer>0</integer>
 		<integer>0</integer>
 		<integer>1500</integer>
 		<integer>1516</integer>
 		<integer>1760</integer>
+		<integer>1770</integer>
 		<integer>1776</integer>
+		<integer>1779</integer>
 	</array>
-	<key>postscriptFontName</key>
-	<string>Anton</string>
-	<key>postscriptFullName</key>
-	<string>Anton</string>
 	<key>postscriptOtherBlues</key>
 	<array>
+		<integer>-232</integer>
+		<integer>-186</integer>
 	</array>
 	<key>styleMapStyleName</key>
-	<string>regular</string>
+	<string>italic</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Italic</string>
 	<key>trademark</key>
 	<string>Anton is a trademark of vernon adams.</string>
 	<key>unitsPerEm</key>
