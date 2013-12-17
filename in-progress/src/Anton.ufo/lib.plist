@@ -894,8 +894,6 @@
 		<string>Ccaron</string>
 		<string>Ccircumflex</string>
 		<string>Cdotaccent</string>
-		<string>DZ</string>
-		<string>DZcaron</string>
 		<string>Eth</string>
 		<string>Dcaron</string>
 		<string>Dcroat</string>
@@ -920,13 +918,11 @@
 		<string>Imacron</string>
 		<string>Iogonek</string>
 		<string>Kcommaaccent</string>
-		<string>LJ</string>
 		<string>Lacute</string>
 		<string>Lcaron</string>
 		<string>Lcommaaccent</string>
 		<string>Lj</string>
 		<string>Mdotaccent</string>
-		<string>NJ</string>
 		<string>Ncaron</string>
 		<string>Ncommaaccent</string>
 		<string>Eng</string>
