@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaboverightcomb" format="1">
+  <advance width="600"/>
+  <unicode hex="0358"/>
+  <outline>
+    <contour>
+      <point x="127" y="1592" type="line"/>
+      <point x="485" y="1592" type="line"/>
+      <point x="485" y="1890" type="line"/>
+      <point x="127" y="1890" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="480"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="248" y="878" type="move" name="_mid"/>
+    </contour>
+    <contour>
+      <point x="58" y="723" type="line"/>
+      <point x="376" y="723" type="line"/>
+      <point x="423" y="1021" type="line"/>
+      <point x="105" y="1021" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
